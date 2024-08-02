@@ -32,7 +32,12 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 
 </div>
 
+## 🚀 O que estou fazendo?
 
+- Estudando Formação C# 
+- Estudando Formanção Back-end Alura
+- Inglês Wizard
+- Fiap - ínicio 08/2023 - 08/2025
 
 
 ## 📚Alguns cursos em andamento /  O que estou aprendendo! 
