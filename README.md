@@ -34,7 +34,7 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 
 
 
-📚 Alguns cursos em andamento /  O que estou aprendendo! 
+##📚 Alguns cursos em andamento /  O que estou aprendendo! 
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />  
