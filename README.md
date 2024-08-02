@@ -46,7 +46,7 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 <div>
     <a href="https://github.com/fe-clemente">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-clemente&layout=compact&langs_count=7&theme=dracula"/>
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fe-clemente&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fe-clemente&show_icons=true&theme=dracula&include_all_commits=true"/>
     </a>
 </div>
 
