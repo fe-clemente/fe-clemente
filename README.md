@@ -1,4 +1,6 @@
-Muito Prazer, Eu Sou Fernando Clemente! :wink:
+Muito Prazer, Fernando Clemente! :wink:
+
+Uma breve apresentação :point_down:
 
 Sempre trabalhei com administração e logística, áreas nas quais tenho sólida experiência. No entanto, desde cedo, tive uma paixão por tecnologia. Aos 16 anos, estudei Web Design no Senac e cheguei a criar alguns sites, mas a vida me direcionou para a administração, uma área pela qual sou grato.
 
