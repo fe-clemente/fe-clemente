@@ -1,5 +1,5 @@
 👋 Hello! Welcome to my GitHub profile.
-My name is Fernando Clemente!
+My name is Fernando Clemente!https://github.com/fe-clemente/fe-clemente
 Um pouco sobre mim...
 
 Sempre trabalhei com administração e logística, áreas nas quais tenho sólida experiência. No entanto, desde cedo, tive uma paixão por tecnologia. Aos 16 anos, estudei Web Design no Senac e cheguei a criar alguns sites, mas a vida me direcionou para a administração, uma área pela qual sou grato.
@@ -22,6 +22,7 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 <div>
 <a href="mailto:fe-clemente@hotmail.com">
     <img loading="lazy" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<a href = "feclemente05@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/clementeads" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </a>
@@ -42,7 +43,11 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
           
 
           
-
+<div>
+<a href="https://github.com/fe-clemente">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
           
 
