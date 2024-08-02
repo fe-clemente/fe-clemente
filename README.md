@@ -1,5 +1,5 @@
 👋 Hello! Welcome to my GitHub profile.
-My name is Fernando Clemente!https://github.com/fe-clemente/fe-clemente
+My name is Fernando Clemente!
 Um pouco sobre mim...
 
 Sempre trabalhei com administração e logística, áreas nas quais tenho sólida experiência. No entanto, desde cedo, tive uma paixão por tecnologia. Aos 16 anos, estudei Web Design no Senac e cheguei a criar alguns sites, mas a vida me direcionou para a administração, uma área pela qual sou grato.
@@ -46,9 +46,10 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 <div>
     <a href="https://github.com/fe-clemente">
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fe-clemente&layout=compact&langs_count=7&theme=dracula"/>
-        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fe-clemente&show_icons=true&theme=dracula&include_all_commits=true"/>
+        <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fe-clemente&show_icons=true&theme=dracula"/>
     </a>
 </div>
+
 
           
 
