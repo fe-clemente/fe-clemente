@@ -1,6 +1,4 @@
-👋 Hello! Welcome to my GitHub profile.
-My name is Fernando Clemente!
-Um pouco sobre mim...
+Muito Prazer, Eu Sou Fernando Clemente! :wink:
 
 Sempre trabalhei com administração e logística, áreas nas quais tenho sólida experiência. No entanto, desde cedo, tive uma paixão por tecnologia. Aos 16 anos, estudei Web Design no Senac e cheguei a criar alguns sites, mas a vida me direcionou para a administração, uma área pela qual sou grato.
 
@@ -31,7 +29,7 @@ Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academi
 
 
 
-## Alguns cursos em andamento! 
+## Alguns cursos em andamento /  O que estou aprendendo! 
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />  
