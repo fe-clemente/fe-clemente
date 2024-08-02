@@ -18,9 +18,15 @@ www.rymedicina.com.br – site que fiz para minha esposa e uso como portfólio (
 
 Resumindo, sou apaixonado por tecnologia, motos, mergulho, pesca, games, academia, responsabilidade, trabalho e família.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />www.linkedin.com/in/clementeads <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20" height="20" />
+## Contatos:
+<div>
+<a href = "mailto:fe-clemente@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/clementeads" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
+
+## Alguns cursos em andamento! 
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />  
