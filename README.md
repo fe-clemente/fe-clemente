@@ -14,7 +14,7 @@ Construo e opero sozinho o ecossistema de sistemas de uma rede de franquias de a
 
 ## Ecossistema
 
-<img width="2000" height="1200" alt="portfolio-proprietario (1)" src="https://github.com/user-attachments/assets/5afab523-aefd-475b-8097-6eb1f9b4dad0" />
+<img width="2400" height="1100" alt="portfolio-proprietario (2)" src="https://github.com/user-attachments/assets/24f57a55-4790-404f-91f1-b296ae308b85" />
 <img width="2951" height="1150" alt="ecossistema" src="https://github.com/user-attachments/assets/4ef611e3-881d-485e-80f9-2f7ed434a2aa" />
 
 
@@ -53,7 +53,7 @@ O mapa mostra a estrutura, não o conteúdo.
 **IA:** Claude · Gemini · Groq · Codex · MCP  
 **Infra:** Linux · PM2 · Docker · AWS (S3, CodeDeploy) · Apache  
 **Front:** HTML/CSS/JS · Blade · Tailwind · mobile-first  
-**Integrações:** WhatsApp Cloud API · Google Workspace · marketplaces de delivery · ERPs · bancos
+**Integrações:** WhatsApp Cloud API · Google Workspace · marketplaces de delivery · ERPs · bancos · Entre outros
 
 ---
 
