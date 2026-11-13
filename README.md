@@ -14,7 +14,9 @@ Construo e opero sozinho o ecossistema de sistemas de uma rede de franquias de a
 
 ## Ecossistema
 
-<!-- FOTOS: ecossistema.png e portfolio-proprietario.png -->
+<img width="2000" height="1200" alt="portfolio-proprietario (1)" src="https://github.com/user-attachments/assets/5afab523-aefd-475b-8097-6eb1f9b4dad0" />
+<img width="2951" height="1150" alt="ecossistema" src="https://github.com/user-attachments/assets/4ef611e3-881d-485e-80f9-2f7ed434a2aa" />
+
 
 Criei todos os sistemas do mapa. O núcleo, em números:
 
